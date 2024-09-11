@@ -11,11 +11,7 @@ This project explores different approaches to deploying machine learning models 
 
 ## Repository Structure
 
-- `api_product/`: Source code for the API-based product
-- `local_product/`: Source code for the locally executed product
-- `.github/workflows/`: GitHub Actions workflow files
-- `tests/`: Unit tests for the models
-- `docs/`: Project documentation and report
+[TODO]
 
 ## Setup and Usage
 
